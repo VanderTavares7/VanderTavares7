@@ -4,7 +4,7 @@
 
 ## Olá! Sou o Vander 👋
 
-Estudante de **Sistemas de Informação na Fagammon**, com experiência em desenvolvimento Full Stack e suporte de TI. Atualmente, estou direcionando meus estudos para **Análise de Dados**, com foco em SQL e PostgreSQL.
+Estudante de **Sistemas de Informação na Fagammon**, com experiência em desenvolvimento Full Stack e suporte de TI. Atualmente, estou direcionando meus estudos para **Análise de Dados**, com foco em Power BI e PostgreSQL.
 
 - 💻 Atuei em projetos com Java, Spring Boot, JavaScript, React, Vue e PostgreSQL na **YouX Group**.
 - 🌟 Fui reconhecido como **destaque do YouX Lab** durante meu estágio.
